@@ -16,7 +16,6 @@ Neura is a Python-based AI voice assistant capable of understanding voice comman
 - SpeechRecognition, PyWhatKit, Porcupine
 - SQLite (for command storage)
 
-## 📂 Project Structure
 ## 📁 Project Structure
 
 ```
