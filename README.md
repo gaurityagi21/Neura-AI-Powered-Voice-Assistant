@@ -11,10 +11,12 @@ Neura is a Python-based AI voice assistant capable of understanding voice comman
 - GUI integration with Eel
 
 ## 🛠️ Tech Stack
-- Python
-- Eel (for GUI)
-- SpeechRecognition, PyWhatKit, Porcupine
-- SQLite (for command storage)
+
+- **Python** – Core logic and voice engine
+- **Eel** – Python + Web GUI integration
+- **HTML, CSS, JavaScript** – Frontend interface for Neura
+- **SpeechRecognition**, **PyWhatKit**, **Porcupine** – Voice and automation features
+- **SQLite** – For storing custom app commands
 
 ## 📁 Project Structure
 
